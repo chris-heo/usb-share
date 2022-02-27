@@ -56,3 +56,14 @@ The light guides were made in Sketchup.
 Both designs were aligned to be printed on an Ender 3. The Housing works fine at 0.2 mm layer height, the light guides seem to work best with minimal layer height (using transparent PLA).
 
 The screws used are M2 with 12 mm length.
+
+The light guides can be heatstaked with a soldering iron (fillet tip) at 250 °C
+
+## Improvements, TODOs and planned features
+* Implement USB management interface (and host software - likely python)
+* Implement OLED display
+* Translate light guides to OpenSCAD-design and improve
+* Add mounting points to housing
+* Add holes for terminals
+* Reduce light leaks between indicators and at the bottom of the housing
+* improve mounting of button faceplates
