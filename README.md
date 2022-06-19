@@ -1,4 +1,4 @@
-# USB sharing switchs
+# USB sharing switch
 
 Almost 2 years ago (as of end of February 2022), I switched to mostly working from home. Having a more than adequate setup, I hooked up my work notebook's dock to my after hours battlestation.
 
